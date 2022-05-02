@@ -1092,7 +1092,4 @@ namespace LibraryApp3
             }
         }
     }
-	
 }
-
-
