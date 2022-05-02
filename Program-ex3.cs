@@ -1089,19 +1089,10 @@ namespace LibraryApp3
                     default:
                         break;
                 }
-
-
-
-
-
             }
-
-
-
-
-
         }
     }
+	
 }
 
 
